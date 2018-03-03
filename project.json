@@ -1,0 +1,8 @@
+{
+  "name": "theequitableserver",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::987781737234:role/theequitableserver_lambda_function",
+  "environment": {}
+}
